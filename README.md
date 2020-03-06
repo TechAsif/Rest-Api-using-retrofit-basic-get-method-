@@ -1,6 +1,8 @@
 # Rest-Api-using-retrofit-basic-get-method-
 
-#Output Image
+In this project we retrive data from web api using retrofit restful api library
+
+# Output Image
 
 simple screen 1
 
